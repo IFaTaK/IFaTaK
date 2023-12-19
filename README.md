@@ -13,7 +13,7 @@ I'm an enthusiastic French engineering student deeply interested in Computer Sci
 - Developing efficient and effective solutions through programming.
 
 👨‍💻 **Languages and Tools:**
-- C, C++, Python, and more.
+- C, C++, Ada, Python, and more.
 
 🌍 **Looking Forward:**
 - I am open to international experiences that will broaden my engineering skills and perspectives.
