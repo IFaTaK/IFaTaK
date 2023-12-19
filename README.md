@@ -2,9 +2,11 @@
 
 I'm an enthusiastic French engineering student deeply interested in Computer Science, Data Science, Artificial Intelligence, and programming. I have a knack for understanding and learning low-level programming languages like C and C++, along with proficiency in high-level languages such as Python.
 
+🔍 Seeking a software engineering internship abroad for 12-16 weeks between June and September next year
+
 🌱 **What I'm Focused On:**
 - Currently enhancing my skills in low-level programming languages.
-- Actively seeking internship opportunities abroad, preferably in a software engineering role.
+- Actively seeking a software engineering internship abroad for 12-16 weeks between June and September next year.
 
 🔭 **My Passion:**
 - Exploring the intricacies of AI and data science.
