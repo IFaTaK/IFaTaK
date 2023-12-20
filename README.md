@@ -47,7 +47,7 @@ Take a look at my GitHub stats to get an idea of my work:
 <!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
 
 ## 💻 Current Project
-[![Neural Network](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&icon_color=7d8590&bg_color=0d1117&border_color=30363d)](https://github.com/IFaTaK/NeuroPyCraft)
+[![Neural Network](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=transparent)](https://github.com/IFaTaK/NeuroPyCraft)
 
 ---
 
