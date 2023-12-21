@@ -49,7 +49,12 @@ Take a look at my GitHub stats to get an idea of my work:
 <a href="https://github.com/ifata#gh-light-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=default&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
 </a>
-
+<a href="https://github.com/ifatak#gh-dark-mode-only">
+  <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&theme=dark&background=EB545400&card_width=760" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/ifata#gh-light-mode-only">
+  <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&background=EB545400&card_width=760" alt="GitHub Streak" />
+</a>
 
 <!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
 
@@ -59,4 +64,4 @@ Take a look at my GitHub stats to get an idea of my work:
 
 ---
 
-<sub><sup>Continuous learning is the key to continuous progress.</sup></sub>
+<sub><code>Continuous learning is the key to continuous progress.</code></sub>
