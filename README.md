@@ -38,16 +38,16 @@ I'm a French engineering student passionate about exploring the world of Compute
 Take a look at my GitHub stats to get an idea of my work:
 
 <a href="https://github.com/ifatak">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&theme=dark&bg_color=00000000" />
 </a>
 <a href="https://github.com/ifatak">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=transparent&layout=compact&langs_count=5&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=dark&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
 </a>
 
 <!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
 
 ## 💻 Current Project
-[![Neural Network](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=transparent)](https://github.com/IFaTaK/NeuroPyCraft)
+[![Neural Network](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&bg_color=00000000)](https://github.com/IFaTaK/NeuroPyCraft)
 
 ---
 
