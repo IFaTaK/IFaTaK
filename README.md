@@ -29,6 +29,28 @@ I'm a French engineering student passionate about exploring the world of Compute
 - Developing efficient and effective solutions through programming.
 - When I'm not coding, I'm 'piloting' in flight simulators - often crashing, but always with a smile. Coding skills: expert. Flying skills: well, let's just say I stick to coding!
 
+```python
+class Plane: # ✈️
+    def __init__(self, pos, passengers, pilot):
+        self.pos = pos # 🗺️
+        self.passengers = passengers # 👱‍♀️🧔👩‍🦰
+        self.pilot = pilot # 🧑‍✈️
+    def crashing(self):
+        print("The goddamn plane has crashed into the mountain!") # ⛰️
+
+
+pos = 320, 747
+passengers = ["Ada","Tom","Liv"]
+me = "IFaTaK"
+
+plane = Plane(pos,passengers,me) # Be afraid, I'm the pilot 🧑‍✈️
+
+if going_to_crash(plane):   # My actual pilot skills 😎
+    dont()                  # Has never worked.      🤔
+```
+```console
+>>> The goddamn plane has crashed into the mountain!
+```
 ## 🌍 Looking Forward
 - I am open to international experiences that will broaden my engineering skills and perspectives.
 - Eager to collaborate on innovative projects where I can apply my passion for AI and data science, especially those that challenge me to think outside the box and push the boundaries of what's possible in technology.
@@ -63,5 +85,4 @@ Take a look at my GitHub stats to get an idea of my work:
 [![Neural Network Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-light-mode-only)
 
 ---
-
 <sub><code>Continuous learning is the key to continuous progress.</code></sub>
