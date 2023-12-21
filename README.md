@@ -38,7 +38,7 @@ I'm a French engineering student passionate about exploring the world of Compute
 Take a look at my GitHub stats to get an idea of my work:
 
 <a href="https://github.com/ifatak">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&theme=transparent&card_width=170" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/ifatak">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=transparent&layout=compact&langs_count=5&card_width=320" />
