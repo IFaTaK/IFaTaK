@@ -41,7 +41,7 @@ Take a look at my GitHub stats to get an idea of my work:
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&theme=transparent&card_width=170" />
 </a>
 <a href="https://github.com/ifatak">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=transparent&layout=compact&langs_count=5&card_width=310" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=transparent&layout=compact&langs_count=5&card_width=320" />
 </a>
 
 <!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
