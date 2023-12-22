@@ -83,6 +83,3 @@ Take a look at my GitHub stats to get an idea of my work:
 ## 💻 Current Project
 [![Neural Network Dark](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-dark-mode-only)
 [![Neural Network Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-light-mode-only)
-
----
-<sub><code>Continuous learning is the key to continuous progress.</code></sub>
