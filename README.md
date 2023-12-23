@@ -83,5 +83,5 @@ Take a look at my GitHub stats to get an idea of my work:
 ## 💻 Current Project
 [![Neural Network Dark](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-dark-mode-only)
 [![Neural Network Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-light-mode-only)
-[![RNA Sequencing Dark](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=RNA_Sequencing&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/IFaTaK/RNA_Sequencing#gh-dark-mode-only)
-[![RNA Sequencing Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=RNA_Sequencing&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/RNA_Sequencing#gh-light-mode-only)
+[![RNA Sequencing Dark](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/IFaTaK/ViraSeqAnalytics#gh-dark-mode-only)
+[![RNA Sequencing Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/ViraSeqAnalytics#gh-light-mode-only)
