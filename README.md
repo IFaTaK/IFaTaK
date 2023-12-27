@@ -48,7 +48,7 @@ plane = Plane(pos,passengers,me) # Be afraid, I'm the pilot 🧑‍✈️
 if going_to_crash(plane):   # My actual pilot skills 😎
     dont()                  # Has never worked.      🤔
 ```
-```console
+```cmd
 >>> The goddamn plane has crashed into the mountain!
 ```
 ## 🌍 Looking Forward
