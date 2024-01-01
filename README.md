@@ -87,6 +87,18 @@ Take a look at my GitHub stats to get an idea of my work:
 </div>
 
 <!--START_SECTION:waka-->
+
+```python
+Total Time: 4 hrs 48 mins
+
+C++          3 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>-----   80.02 %
+Python       38 mins         >>>----------------------   13.31 %
+CMake        7 mins          >------------------------   02.71 %
+ObjectiveC   7 mins          >------------------------   02.51 %
+Git Config   3 mins          -------------------------   01.05 %
+Git          0 secs          -------------------------   00.31 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
