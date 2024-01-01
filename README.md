@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=IFaTaK&desc=Engineering%20Student&%20Software%20Enthusiast&fontSize=90&animation=fadeIn&descAlign=57)
+<div align="center">
+  <a href="https://github.com/ifatak#gh-dark-mode-only">
+    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=IFaTaK&desc=Engineering%20Student&%20Software%20Enthusiast&fontSize=90&descAlignY=65&animation=fadeIn&descAlign=57" />
+  </a>
+</div>
 
 <p align="center">
   <strong>Connect with me</strong>
@@ -61,25 +65,26 @@ if going_to_crash(plane):   # My actual pilot skills 😎
 
 ## 📊 GitHub Stats
 Take a look at my GitHub stats to get an idea of my work:
-
-<a href="https://github.com/ifatak#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&bg_color=00000000&theme=dark" />
-</a>
-<a href="https://github.com/ifatak#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&bg_color=00000000&theme=default" />
-</a>
-<a href="https://github.com/ifatak#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=dark&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
-</a>
-<a href="https://github.com/ifata#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=default&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
-</a>
-<a href="https://github.com/ifatak#gh-dark-mode-only">
-  <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&theme=dark&background=EB545400&card_width=707" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/ifata#gh-light-mode-only">
-  <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&background=EB545400&card_width=707" alt="GitHub Streak" />
-</a>
+<div align="center">
+  <a href="https://github.com/ifatak#gh-dark-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&bg_color=00000000&theme=dark" />
+  </a>
+  <a href="https://github.com/ifatak#gh-light-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&bg_color=00000000&theme=default" />
+  </a>
+  <a href="https://github.com/ifatak#gh-dark-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=dark&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
+  </a>
+  <a href="https://github.com/ifata#gh-light-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=default&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
+  </a>
+  <a href="https://github.com/ifatak#gh-dark-mode-only">
+    <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&theme=dark&background=EB545400&card_width=707" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/ifatak#gh-light-mode-only">
+    <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&background=EB545400&card_width=707" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -87,7 +92,18 @@ Take a look at my GitHub stats to get an idea of my work:
 <!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
 
 ## 💻 Current Project
-[![Neural Network Dark](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-dark-mode-only)
-[![Neural Network Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/NeuroPyCraft#gh-light-mode-only)
-[![RNA Sequencing Dark](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/IFaTaK/ViraSeqAnalytics#gh-dark-mode-only)
-[![RNA Sequencing Light](https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/IFaTaK/ViraSeqAnalytics#gh-light-mode-only)
+
+<div align="center">
+  <a href="https://github.com/IFaTaK/NeuroPyCraft#gh-dark-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/IFaTaK/NeuroPyCraft#gh-light-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=NeuroPyCraft&theme=dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/IFaTaK/ViraSeqAnalytics#gh-dark-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/IFaTaK/ViraSeqAnalytics#gh-light-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=dark&bg_color=00000000" />
+  </a>
+</div>
