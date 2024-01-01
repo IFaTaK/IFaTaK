@@ -34,3 +34,6 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: Kilian LEFEVRE # optional
+          AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
+          # you can populate email-id with secretes instead
