@@ -89,6 +89,8 @@ Take a look at my GitHub stats to get an idea of my work:
 <!--START_SECTION:waka-->
 
 ```python
+From: 31 December 2023 - To: 01 January 2024
+
 Total Time: 4 hrs 48 mins
 
 C++          3 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>-----   80.02 %
