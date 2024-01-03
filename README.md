@@ -89,16 +89,19 @@ Take a look at my GitHub stats to get an idea of my work:
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 December 2023 - To: 01 January 2024
+From: 31 December 2023 - To: 02 January 2024
 
-Total Time: 4 hrs 48 mins
+Total Time: 10 hrs 8 mins
 
-C++          3 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>-----   80.02 %
-Python       38 mins         >>>----------------------   13.31 %
-CMake        7 mins          >------------------------   02.71 %
-ObjectiveC   7 mins          >------------------------   02.51 %
-Git Config   3 mins          -------------------------   01.05 %
-Git          0 secs          -------------------------   00.31 %
+C++              7 hrs 5 mins    >>>>>>>>>>>>>>>>>--------   69.65 %
+Python           1 hr 6 mins     >>>----------------------   10.85 %
+CMake            1 hr 1 min      >>-----------------------   09.99 %
+ObjectiveC       26 mins         >------------------------   04.29 %
+Git              7 mins          -------------------------   01.20 %
+Git Config       4 mins          -------------------------   00.72 %
+CSV              3 mins          -------------------------   00.55 %
+Markdown         2 mins          -------------------------   00.43 %
+Other            2 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
