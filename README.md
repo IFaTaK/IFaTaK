@@ -102,8 +102,6 @@ Git              7 mins          -------------------------   01.20 %
 
 <!--END_SECTION:waka-->
 
-<!-- ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&include_all_commits=true&theme=tokyonight) -->
-
 ## 💻 Current Project
 
 <div align="center">
