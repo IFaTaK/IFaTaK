@@ -108,16 +108,15 @@ Git              7 mins          -------------------------   01.20 %
 
 <div align="center">
   <a href="https://github.com/IFaTaK/ViraSeqAnalytics#gh-dark-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=dark&bg_color=00000000" />
+    <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=dark&bg_color=00000000" />
   </a>
   <a href="https://github.com/IFaTaK/ViraSeqAnalytics#gh-light-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=default&bg_color=00000000" />
+    <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=ViraSeqAnalytics&theme=default&bg_color=00000000" />
   </a>
   <a href="https://github.com/IFaTaK/K-means-clustering#gh-dark-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=K-means-clustering&theme=dark&bg_color=00000000" />
+    <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=K-means-clustering&theme=dark&bg_color=00000000" />
   </a>
   <a href="https://github.com/IFaTaK/K-means-clustering#gh-light-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=K-means-clustering&theme=default&bg_color=00000000" />
-  </a>
-  
+    <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifatak&repo=K-means-clustering&theme=default&bg_color=00000000" />
+  </a> 
 </div>
