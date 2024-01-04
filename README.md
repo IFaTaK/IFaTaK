@@ -73,10 +73,10 @@ Take a look at my GitHub stats to get an idea of my work:
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ifatak&rank_icon=github&hide=contribs&show_icons=true&bg_color=00000000&theme=default" />
   </a>
   <a href="https://github.com/ifatak#gh-dark-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=dark&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=dark&bg_color=00000000&layout=compact&langs_count=5&card_width=320&size_weight=0.5&count_weight=0.5" />
   </a>
   <a href="https://github.com/ifata#gh-light-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=default&bg_color=00000000&layout=compact&langs_count=5&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatak&theme=default&bg_color=00000000&layout=compact&langs_count=5&card_width=320&size_weight=0.5&count_weight=0.5" />
   </a>
   <a href="https://github.com/ifatak#gh-dark-mode-only">
     <img id="streak" src="https://streak-stats.demolab.com?user=ifatak&theme=dark&background=EB545400&card_width=707" alt="GitHub Streak" />
