@@ -88,7 +88,7 @@ Take a look at my GitHub stats to get an idea of my work:
 
 <!--START_SECTION:waka-->
 
-```json
+```rust
 From: 31 December 2023 - To: 04 January 2024
 
 Total Time: 19 hrs 3 mins
