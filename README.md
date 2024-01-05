@@ -88,7 +88,7 @@ Take a look at my GitHub stats to get an idea of my work:
 
 <!--START_SECTION:waka-->
 
-```python
+```ruby
 From: 31 December 2023 - To: 04 January 2024
 
 Total Time: 19 hrs 3 mins
@@ -97,7 +97,6 @@ C++              11 hrs 32 mins  >>>>>>>>>>>>>>>----------   60.34 %
 Python           2 hrs 39 mins   >>>----------------------   13.87 %
 Markdown         1 hr 56 mins    >>>----------------------   10.11 %
 CMake            1 hr 17 mins    >>-----------------------   06.76 %
-ObjectiveC       26 mins         >------------------------   02.28 %
 ```
 
 <!--END_SECTION:waka-->
