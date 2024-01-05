@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/ifatak#gh-dark-mode-only">
+  <a href="https://github.com/ifatak">
     <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=IFaTaK&desc=Engineering%20Student&%20Software%20Enthusiast&fontSize=90&descAlignY=65&animation=fadeIn&descAlign=57" />
   </a>
 </div>
