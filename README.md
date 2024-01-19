@@ -21,7 +21,7 @@ I'm a French engineering student passionate about exploring the world of Compute
 🔍 *Seeking a software engineering internship abroad for 12-16 weeks between June and September next year.*
 
 ## Languages / Tools
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,vscode,matlab,ocaml,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,vscode,matlab,ocaml,cmake,github,git)](https://skillicons.dev)
 
 ## Learning
 [![Learning](https://skillicons.dev/icons?i=js,java,ts,eclipse,idea,SQL)](https://skillicons.dev)
