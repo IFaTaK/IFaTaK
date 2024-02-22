@@ -89,12 +89,12 @@ Take a look at my GitHub stats to get an idea of my work:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 December 2023 - To: 20 February 2024
+From: 31 December 2023 - To: 21 February 2024
 
 Total Time: 48 hrs 11 mins
 
 C++              20 hrs 42 mins  >>>>>>>>>>---------------   41.59 %
-Python           16 hrs 28 mins  >>>>>>>>-----------------   33.10 %
+Python           16 hrs 29 mins  >>>>>>>>-----------------   33.10 %
 Markdown         3 hrs 54 mins   >>-----------------------   07.85 %
 JavaScript       2 hrs 28 mins   >------------------------   04.97 %
 CMake            1 hr 42 mins    >------------------------   03.43 %
