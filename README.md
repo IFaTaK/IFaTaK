@@ -89,7 +89,7 @@ Take a look at my GitHub stats to get an idea of my work:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 December 2023 - To: 06 March 2024
+From: 31 December 2023 - To: 07 March 2024
 
 Total Time: 61 hrs 39 mins
 
