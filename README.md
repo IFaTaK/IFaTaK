@@ -34,28 +34,30 @@ I'm a French engineering student passionate about exploring the world of Compute
 ## 🔭 My Passion
 - Exploring the intricacies of AI and data science.
 - Developing efficient and effective solutions through programming.
-- When I'm not coding, I'm 'piloting' in flight simulators - often crashing, but always with a smile. Coding skills: expert. Flying skills: well, let's just say I stick to coding!
+When I'm not coding, I'm 'gaming' - often losing, but always with a smile. Coding skills: expert. Gaming skills: well, let's just say my mates are thrash!
 
 ```python
-class Plane: # ✈️
-    def __init__(self, pos, passengers, pilot):
-        self.pos = pos # 🗺️
-        self.passengers = passengers # 👱‍♀️🧔👩‍🦰
-        self.pilot = pilot # 🧑‍✈️
-    def crashing(self):
-        print("The goddamn plane has crashed into the mountain!") # ⛰️
+class GameCharacter: # 🎮
+    def __init__(self, name, level, inventory):
+        self.name = name # 🏷️
+        self.level = level # 🔢
+        self.inventory = inventory # 🎒
+    def losing(self):
+        print("You have been defeated!") # 💀
 
 
-pos = 320, 747
-passengers = ["Ada","Tom","Liv"]
-me = "IFaTaK"
+name = "IFaTaK"
+level = 1
+inventory = ["Sword", "Shield", "Potion"]
+teammates = ["Ada", "Tom", "Liv"]
 
-plane = Plane(pos,passengers,me) # Be afraid, I'm the pilot 🧑‍✈️
+character = GameCharacter(name, level, inventory) # Be careful I'm playing 🕹️
 
-if going_to_crash(plane):   # My actual pilot skills 😎
-    dont()                  # Has never worked.      🤔
+if going_to_lose(character):  # My actual gaming skills 😎
+    dont()                    # Has never worked.      🤔
 ```
 ```cmd
+>>> My mates are thrash: Ada, Tom, Liv!
 >>> The goddamn plane has crashed into the mountain!
 ```
 ## 🌍 Looking Forward
