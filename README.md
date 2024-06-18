@@ -18,7 +18,7 @@
 
 I'm a French engineering student passionate about exploring the world of Computer Science, Data Science, Artificial Intelligence, and coding. I love to understand and learn low-level programming languages such as C and C++, while also mastering high-level languages like Python.
 
-🔍 *Seeking a software engineering internship abroad for 12-16 weeks between June and September next year.*
+🔍 *Seeking a software engineering internship abroad for 12-16 weeks between June and September 2025.*
 
 ## Languages / Tools
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,vscode,matlab,ocaml,cmake,github,git)](https://skillicons.dev)
