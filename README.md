@@ -51,14 +51,14 @@ level = 1
 inventory = ["Sword", "Shield", "Potion"]
 teammates = ["Ada", "Tom", "Liv"]
 
-character = GameCharacter(name, level, inventory) # Be careful I'm playing 🕹️
+character = GameCharacter(name, level, inventory) # Gaming time! 🕹️
 
 if going_to_lose(character):  # My actual gaming skills 😎
     dont()                    # Has never worked.      🤔
 ```
 ```cmd
 >>> My mates are thrash: Ada, Tom, Liv!
->>> The goddamn plane has crashed into the mountain!
+>>> You have been defeated!
 ```
 ## 🌍 Looking Forward
 - I am open to international experiences that will broaden my engineering skills and perspectives.
