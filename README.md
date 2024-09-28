@@ -54,7 +54,7 @@ teammates = ["Ada", "Tom", "Liv"]
 character = GameCharacter(name, level, inventory) # Gaming time! 🕹️
 
 if going_to_lose(character):  # My actual gaming skills 😎
-    dont()                    # Has never worked.      🤔
+    dont()                    # It never worked.      🤔
 ```
 ```cmd
 >>> My mates are thrash: Ada, Tom, Liv!
