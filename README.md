@@ -24,7 +24,7 @@ I'm a French engineering student passionate about exploring the world of Compute
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,vscode,ocaml,github,git)](https://skillicons.dev)
 
 ## Learning
-[![Learning](https://skillicons.dev/icons?i=html,css,js,flask,tensorflow)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=html,css,js,flask,tensorflow,pytorch)](https://skillicons.dev)
 
 ## 🌱 Current Learning Path
 - Deepening my understanding of data science and AI applications.
